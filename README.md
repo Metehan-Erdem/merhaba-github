@@ -1,2 +1,9 @@
-# merhaba-github
-Github'ı öğreneceğim oluşturduğum ilk depo.
+# Merhaba GitHub
+Bu depo, GitHub'ı öğrenirken oluşturduğum ilk depo.
+
+##Hakkımda
+
+- **Bölüm: Bilgisayar Mühendisliği**
+- **En çok merak ettiğim konu: Fenerin hali ne olacak.**
+
+## Bu depoda neler var?
