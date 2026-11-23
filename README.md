@@ -10,4 +10,4 @@ Bu depo, GitHub'ı öğrenirken oluşturduğum ilk depo.
 ![SAKARYA UNIVERSITESI](sau.jpg.png)
 
 ## Hobilerim
-**Twitter kaydırmak.**
+- **Twitter kaydırmak.**
